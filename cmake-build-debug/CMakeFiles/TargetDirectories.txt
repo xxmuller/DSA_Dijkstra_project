@@ -1,0 +1,3 @@
+C:/FIIT/DSA/popolvar_final/cmake-build-debug/CMakeFiles/popolvar_final.dir
+C:/FIIT/DSA/popolvar_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/FIIT/DSA/popolvar_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
